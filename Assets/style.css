@@ -6,6 +6,7 @@
     border-style: groove;
     justify-content: center;
     border-width: 10px;
+    background-color: wheat;
 }
 
 .hero img {
@@ -24,7 +25,6 @@
     margin: 15px;
     justify-content: space-evenly;
     font-size: medium;
-    background-color:white;
 
 }
 
@@ -33,6 +33,7 @@
     border-style: groove;
     border-width: 5px;
     padding: 15px;
+    background-color: wheat;
 }
 
 .container {
@@ -53,6 +54,7 @@
     width: 30%;
     margin: 15px;
     flex-direction: column;
+    background-color: wheat;
 }
 
 .container-card img {
